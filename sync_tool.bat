@@ -1,0 +1,1 @@
+pyuic5 madafaka.ui -o kod.py
